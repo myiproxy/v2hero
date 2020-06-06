@@ -4,7 +4,7 @@
 如果为您的学习提供了帮助，欢迎给一个Star ^_^
 
 * 快捷部署
-   [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/myiproxy/v2hero/edit/patch-1)
+   [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/myiproxy/v2hero/tree/patch-1)
  
 * 提问&建议
    https://github.com/onplus/v2hero/issues
